@@ -25,7 +25,7 @@ A **production-grade WordPress hosting solution** on AWS that combines the prove
 
 ### Why This Architecture?
 
-```mermaid
+```bash
 graph LR
     A[Traditional Hosting<br/>Single Server] -->|Transform to| 
     B[AWS Cloud<br/>Multi-Service]
